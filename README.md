@@ -4,7 +4,7 @@ A web-based inventory management system for luxury bags and accessories. Search 
 
 ## 🌐 Live Demo
 
-**[View Live Site](https://yourusername.github.io/inventory-system/)**
+**[🌐 View Live Site](https://steven-scdev.github.io/inventory-system/)**
 
 ## ✨ Features
 
